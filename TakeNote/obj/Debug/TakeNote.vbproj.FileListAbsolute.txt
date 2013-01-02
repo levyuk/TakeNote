@@ -1,8 +1,0 @@
-E:\SkyDrive\GitHub\TakeNote\TakeNote\bin\TakeNote.dll
-E:\SkyDrive\GitHub\TakeNote\TakeNote\bin\TakeNote.pdb
-E:\SkyDrive\GitHub\TakeNote\TakeNote\bin\TakeNote.xml
-E:\SkyDrive\GitHub\TakeNote\TakeNote\obj\Debug\TakeNote.Resources.resources
-E:\SkyDrive\GitHub\TakeNote\TakeNote\obj\Debug\TakeNote.vbproj.GenerateResource.Cache
-E:\SkyDrive\GitHub\TakeNote\TakeNote\obj\Debug\TakeNote.dll
-E:\SkyDrive\GitHub\TakeNote\TakeNote\obj\Debug\TakeNote.xml
-E:\SkyDrive\GitHub\TakeNote\TakeNote\obj\Debug\TakeNote.pdb
