@@ -1,0 +1,13 @@
+E:\SkyDrive\GitHub\TakeNote\TakeNote\bin\TakeNote.dll
+E:\SkyDrive\GitHub\TakeNote\TakeNote\bin\TakeNote.pdb
+E:\SkyDrive\GitHub\TakeNote\TakeNote\bin\Newtonsoft.Json.dll
+E:\SkyDrive\GitHub\TakeNote\TakeNote\bin\System.Net.Http.Formatting.dll
+E:\SkyDrive\GitHub\TakeNote\TakeNote\bin\System.Web.Http.dll
+E:\SkyDrive\GitHub\TakeNote\TakeNote\bin\System.Web.Http.WebHost.dll
+E:\SkyDrive\GitHub\TakeNote\TakeNote\bin\Newtonsoft.Json.xml
+E:\SkyDrive\GitHub\TakeNote\TakeNote\bin\System.Net.Http.Formatting.xml
+E:\SkyDrive\GitHub\TakeNote\TakeNote\bin\System.Web.Http.xml
+E:\SkyDrive\GitHub\TakeNote\TakeNote\bin\System.Web.Http.WebHost.xml
+E:\SkyDrive\GitHub\TakeNote\TakeNote\obj\Debug\TakeNote.csprojResolveAssemblyReference.cache
+E:\SkyDrive\GitHub\TakeNote\TakeNote\obj\Debug\TakeNote.dll
+E:\SkyDrive\GitHub\TakeNote\TakeNote\obj\Debug\TakeNote.pdb

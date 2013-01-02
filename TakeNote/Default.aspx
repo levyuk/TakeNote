@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html ng-app="app">
 <head id="Head1" runat="server">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Take Note</title>
@@ -14,16 +14,27 @@
     <link href="css/bootstrap-responsive.min.css" rel="stylesheet" />
     <link href="css/bootstrap.min.css" rel="stylesheet" />
     <link href="css/takenote.css" rel="stylesheet" />
+    <link href='//fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 </head>
 <body>
     <div class="container-fluid">
         <div class="row-fluid">
-            <div class="span2 well well-small">
-                Side bar
+            <div class="span6" ng-controller="NotesCtrl">
+                <h3>Notes</h3>
+                <div class="row-fluid">
+                    <input type="text" placeholder="Type a new note and click Add" class="span12" ng-model="newNote" />
+                </div>
+                <div class="row-fluid">
+                    <a class="btn btn-primary span6" ng-click="addNote()"><i class="icon-plus icon-white"></i>Add</a>
+                    <a class="btn btn-warning span6" ng-click="reloadNotes()"><i class="icon-refresh icon-white"></i>Reload</a>
+                </div>
+                <ul>
+                    <li ng-repeat="note in notes">{{note}}</li>
+                </ul>
+
+                <div class="alert alert-error">This is all test and junk data. Nothing goes to any database and nothing is persisted</div>
             </div>
-            <div class="span10">
-                Content
-            </div>
+
         </div>
     </div>
 </body>
